@@ -36,6 +36,7 @@ or greater
 ### Compiling
 
 ```bash
+ $ mvn validate
  $ mvn package
 ```
 
