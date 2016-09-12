@@ -1,0 +1,23 @@
+# Good map to test collision response
+
+bots 4x4
+
+# Number of cells - horizontal x vertical
+cells 30x20
+
+
+first-aid (2, 2)
+first-aid (27, 2)
+first-aid (27, 18)
+first-aid (2, 18)
+
+weapon rocket_launcher (10, 10)
+weapon laser_gun (19, 10)
+weapon handgun (15, 15)
+weapon handgun (15, 5)
+
+spawn a (1, 1)
+spawn a (1, 19)
+
+spawn b (29, 1)
+spawn b (29, 19)

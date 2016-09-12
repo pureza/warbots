@@ -1,0 +1,14 @@
+bots 1x1
+
+# Number of cells - horizontal x vertical
+cells 20x6
+
+wall (0, 0) (20, 5)
+wall (16, 5) (4, 1)
+
+weapon rocket_launcher (1, 5)
+first-aid (0, 5)
+first-aid (15, 5)
+
+spawn a (1, 5)
+spawn b (14, 5)

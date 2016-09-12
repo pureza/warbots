@@ -1,0 +1,56 @@
+bots 6x6
+
+# Number of cells - horizontal x vertical
+cells 30x20
+
+wall (1, 10) (4, 1)
+wall (7, 10) (4, 1)
+
+wall (10, 1) (1, 4)
+wall (10, 7) (1, 3)
+
+wall (10, 11) (1, 8)
+
+wall (19, 10) (4, 1)
+wall (25, 10) (4, 1)
+
+wall (19, 1) (1, 9)
+
+wall (19, 16) (1, 3)
+wall (19, 11) (1, 3)
+
+wall (11, 4) (6, 1)
+wall (13, 16) (6, 1)
+
+wall (13, 13) (4, 1)
+wall (13, 7) (4, 1)
+
+wall (16, 8) (1, 3)
+wall (13, 10) (1, 3)
+wall (14, 10) (2, 1)
+
+spawn a (1, 1)
+spawn a (1, 18)
+spawn a (5, 1)
+spawn b (29, 1)
+spawn b (24, 13)
+spawn b (29, 18)
+
+first-aid (9, 1)
+first-aid (20, 18)
+
+first-aid (1, 11)
+first-aid (28, 9)
+first-aid (15, 9)
+first-aid (14, 11)
+
+weapon rocket_launcher (14, 2)
+weapon rocket_launcher (14, 18)
+weapon rocket_launcher (13, 8)
+
+weapon laser_gun (9, 9)
+weapon laser_gun (20, 11)
+weapon laser_gun (16, 12)
+
+weapon handgun (5, 18)
+weapon handgun (24, 2)

@@ -1,0 +1,17 @@
+# Good map to test collision response
+
+bots 9x0
+
+# Number of cells - horizontal x vertical
+cells 11x3
+
+wall (0, 0) (5, 3)
+wall (5, 2) (1, 1)
+wall (6, 1) (1, 2)
+wall (8, 0) (1, 1)
+wall (7, 2) (4, 1)
+wall (10, 1) (1, 1)
+
+spawn a (5, 1)
+spawn a (10, 0)
+spawn b (7, 1)
